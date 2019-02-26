@@ -1,2 +1,2 @@
 # MarcEditStuff
-Materials for MarcEdit class
+Materials for MarcEdit presentation
